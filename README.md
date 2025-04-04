@@ -1,1 +1,1 @@
-# grocery-sim
+simulates a grocery store checkout line
